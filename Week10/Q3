@@ -53,7 +53,7 @@ def display_events(events):
     for row in events:
         print(f"  [{row[1]}] {row[4]:<6} {row[2]:<8} {row[3]:<18} {row[5]}")
 
-
+# Week10
 # TODO: Complete get_events_by_severity(severity)
 # Connect to DB_NAME.
 # SELECT all rows from audit_log WHERE severity matches the parameter.

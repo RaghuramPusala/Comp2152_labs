@@ -55,6 +55,9 @@ def get_all_credentials():
     conn.close()
     return rows
 
+    # test change for merge
+    # Week10 update for merge demo
+
 
 def find_credential(website):
     conn = sqlite3.connect(DB_NAME)
