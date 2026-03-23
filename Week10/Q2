@@ -110,7 +110,7 @@ def delete_old_attempts(username):
     conn.close()
     return deleted_count
 
-# Week10 update for merge demo
+# Week 10
 # --- Main (provided) ---
 if __name__ == "__main__":
     print("=" * 60)
