@@ -82,4 +82,4 @@ if __name__ == "__main__":
         bar_chart(type_data, "VULNERABILITY TYPES")
 
     print("\n" + "=" * 60)
-    # Week13 submission
+    # Week13 submissionn
